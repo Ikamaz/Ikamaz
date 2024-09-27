@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irakli Mazmishvili</h1>
-<h3 align="center">A passionate frontend developer from Georgia</h3>
+<h3 align="center">A Passionate Front-End Developer From Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikamaz&label=Profile%20views&color=0e75b6&style=flat" alt="ikamaz" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mazmishviliika@gmail.com**
 
-- ⚡ Fun fact **I love dogs and cars.**
+- ⚡ Fun fact **I love animals and cars.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
