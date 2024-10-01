@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikamaz&label=Profile%20views&color=0e75b6&style=flat" alt="ikamaz" /> </p>
 
-- 🔭 I’m currently working on **Front-end Website**
+- 🔭 I’m currently working on **E-commerce Full-Stack Website**
 
 - 🌱 I’m currently learning **Laravel**
 
