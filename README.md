@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Irakli Mazmishvili</h1>
-<h3 align="center">A Passionate Front-End Developer From Georgia</h3>
+<h3 align="center">A Passionate Web Developer From Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikamaz&label=Profile%20views&color=0e75b6&style=flat" alt="ikamaz" /> </p>
 
 - 🔭 I’m currently working on **Front-end Website**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ikamaz](https://github.com/Ikamaz)
 
