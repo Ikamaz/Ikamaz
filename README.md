@@ -1,5 +1,5 @@
   <h1 align="center">👋 Hi, I’m Irakli Mazmishvili Full Stack Developer</h1>
-<h3>📫 mazmishviliika@gmail.com | https://github.com/Ikamaz </h3>
+<h3>📫 mazmishviliiirakli@gmail.com | https://github.com/Ikamaz </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ikamaz&label=Profile%20views&color=0e75b6&style=flat" alt="Ikamaz" /> </p>
 
 <br>
