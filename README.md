@@ -1,86 +1,67 @@
-  <h1 align="center">👋 Hi, I’m Irakli Mazmishvili Full Stack Developer</h1>
-<h3>📫 mazmishviliika@gmail.com | https://github.com/Ikamaz </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ikamaz&label=Profile%20views&color=0e75b6&style=flat" alt="Ikamaz" /> </p>
+# Irakli Mazmishvili
 
-<br>
+**Software Developer · PHP / Laravel · Full-Stack Web Development**
 
-```js
-let me = {
-   name: "Irakli Mazmishvili", 
-   code: ["Javascript", "PHP", "Laravel"],
-   markup: ["HTML", "CSS", "SCSS"],
-   web: ["React", "React Native", "Vue"],
-   tools: ["Docker", "Figma"],
-   databases: ["MySQL", "SQL", "MongoDB"],
-} 
-```
+Tbilisi, Georgia · [Email](mailto:mazmishviliika@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iraklimasmishvili/)
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Ikamaz" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/iraklimasmishvili/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ika.mazmishvili14" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/ikamazmishvili/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+I build web applications with a focus on backend development, practical business workflows, and clean, maintainable code. My experience includes developing and maintaining web applications, integrating REST APIs, working with relational databases, and building internal tools for business teams.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+I'm currently strengthening my backend engineering skills with **Laravel, PHP, SQL, API design, automated testing, and application architecture**.
 
+---
 
+## Technical skills
 
-### Frontend  
-<div align="center">
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50"></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
-</div>
+| Area | Technologies |
+|---|---|
+| Backend | PHP, Laravel, Node.js, REST APIs |
+| Frontend | React, JavaScript, HTML, CSS, SCSS, Tailwind CSS |
+| Mobile | Flutter, React Native |
+| Databases | MySQL, PostgreSQL, MongoDB |
+| Tools | Git, GitHub, GitLab, Docker, Linux |
 
-</td><td valign="top" width="33%">
+## Selected work
 
+### [Laravel CRM API](https://github.com/Ikamaz/laravel-crm-api)
+A Laravel 12 portfolio project focused on building a structured CRM API. Currently in development.
 
+**Planned:** authentication, role-based access, customer management, notes, follow-up tasks, validation, automated tests, and API documentation.
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50"></a>
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50"></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
-</div>
+### [MagGroup](https://github.com/Ikamaz/maggroup)
+Laravel-based business website for a distributor, with product catalog and administration functionality.
 
-</td><td valign="top" width="33%">
+### [Abstrage](https://github.com/Ikamaz/Abstrage)
+E-commerce project for browsing products, filtering a catalog, managing a cart, and handling reservations through an administration area.
 
+### [Real Estate](https://github.com/Ikamaz/Real-Estate)
+A web development project focused on real-estate listings and property presentation.
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>
+## Professional experience
 
-</td></tr></table>  
+**Software Developer — Juniteck LLC**  
+*March 2025 – March 2026*
 
-<br/>  
+- Developed, maintained, and improved web applications.
+- Built an internal CRM used by the sales team to manage more than 35,000 client records.
+- Worked across application features, user interfaces, API integrations, and data workflows.
 
-<br><br>
-# My Statistics
-| <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ikamaz&show_icons=true&locale=en&layout=compact&theme=dark" alt="Ikamaz's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"></a> |
-| ----------------- | ----------------- |
-<br>
-<br>
+---
+
+## Currently learning
+
+- Advanced Laravel application structure and backend patterns
+- API authentication, authorization, and automated testing
+- Docker and Linux development workflows
+- Writing maintainable, production-minded code
+
+## Get in touch
+
+- **Email:** [mazmishviliika@gmail.com](mailto:mazmishviliika@gmail.com)
+- **LinkedIn:** [linkedin.com/in/iraklimasmishvili](https://www.linkedin.com/in/iraklimasmishvili/)
+- **GitHub:** [github.com/Ikamaz](https://github.com/Ikamaz)
+
+---
+
+*I value consistent learning, thoughtful engineering, and building software that solves real problems.*
