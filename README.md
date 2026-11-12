@@ -2,9 +2,9 @@
 
 # Irakli Mazmishvili
 
-### Software Engineer · Backend & Full-Stack Development
+### Software Engineer · Frontend/Backend & Full-Stack Development
 
-**Building Web & Mobie Applications with PHP, Laravel, JavaScript, MySQL and Flutter.**
+**Building Web & Mobile Applications with PHP, Laravel, JavaScript, MySQL and Flutter.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ikamaz-181717?style=flat-square&logo=github)](https://github.com/Ikamaz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iraklimasmishvili/)
