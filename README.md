@@ -14,7 +14,7 @@
 
 ---
 
-## whoami
+## Who am I
 
 I'm a software developer based in **Tbilisi, Georgia**, interested in backend engineering and full-stack product development.
 
